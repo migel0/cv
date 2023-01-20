@@ -1,0 +1,1 @@
+../mpajarin-cv.cls
